@@ -1,0 +1,8 @@
+glcontext==2.4.0
+llvmlite==0.40.1
+moderngl==5.8.2
+numba==0.57.1
+numpy==1.24.4
+opensimplex==0.4.5
+pygame==2.5.1
+PyGLM==2.7.0
